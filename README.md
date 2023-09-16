@@ -7,7 +7,7 @@ Welcome to Google Maps Integration project! This repository demonstrates how to 
 ## Getting Started
 
 To get started with our Google Maps integration, follow these simple steps:
-
+ 
 1. **Clone the Repository:** Use `git clone` to copy this repository to your local machine.
 
 2. **API Key Setup:** You'll need a Google Maps API key. If you don't have one, you can obtain it from the [Google Cloud Console](https://cloud.google.com/maps-platform/).
